@@ -1,2 +1,2 @@
 # SpringBoard
-Exercises and Capstone project (Aug 2016)
+Exercises and Capstone project (October 2016)
