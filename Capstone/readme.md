@@ -1,1 +1,1 @@
-Capstone Project for Data Science Intensive workshop with Springboard.com, Aug 2016
+Capstone Project for Data Science Intensive workshop with Springboard.com, October 2016
