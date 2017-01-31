@@ -1,0 +1,41 @@
+https://www.kaggle.com/c/titanic/forums/t/13390/introducing-kaggle-scripts
+
+west nile virus:
+https://www.youtube.com/watch?v=qpa-8mr7EN0
+https://twitter.com/damianmingle/status/673254393437925376
+http://www.wpchealthcare.com/
+http://www.wpchealthcare.com/wp-content/themes/png/files/pr_RCM-ans_newEpidemiologists151113.pdf
+http://www.wpchealthcare.com/blog/
+
+public health:
+http://www.internationalhealthpolicies.org/think-big-data-data-science-as-part-of-the-public-health-researchers-toolkit/
+http://www.bbc.com/news/business-29617831 ebola
+http://www.wpchealthcare.com/deploying-data-science-to-proactively-address-zika-virus-lessons-learned-from-chicago/ zika
+
+google "data science outbreak"
+
+data science:
+http://infospace.ischool.syr.edu/2016/02/24/data-science-foundations-getting-started/
+http://www.datakind.org/blog/how-do-i-become-a-data-scientist
+https://docs.google.com/document/d/1zM1-n7GJZPaS_ocfk6tBOjgjc6goQpyxy3W6ekW71Qg/mobilebasic?pli=1
+
+
+google "tripadvisor dataset":
+http://times.cs.uiuc.edu/~wang296/Data/
+
+https://www.yelp.com/dataset_challenge
+
+canary islands:
+http://opendatacanarias.es/datos/dataset?tags=sanitaria
+
+scotland:
+http://www.gov.scot/Topics/Statistics/SIMD multiple deprivation
+http://data.opendatascotland.org/def/concept/themes/deprivation
+
+data:
+http://data.worldbank.org/
+http://www.openstreetmap.org/export#map=5/51.500/-0.100
+http://www.data-applied.com/
+http://geocommons.com/
+https://datawrapper.de/
+http://quartz.github.io/Chartbuilder/

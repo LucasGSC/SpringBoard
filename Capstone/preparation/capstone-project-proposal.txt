@@ -1,0 +1,57 @@
+Capstone Project Proposal
+
+This project proved to be too ambitious, but is what I had
+in mind to start with.
+
+1) What is the problem you want to solve.
+
+I'd like to know if Scotland can feed its population in a
+supply crisis, or just because it wants to (for health or
+economic reasons).
+
+2) Who is your client and why do they care about this problem?
+In other words, what will your client DO or DECIDE based on
+your analysis that they wouldn’t have otherwise?
+
+Governmental and non-governmental entities dealing with
+resilience and development.
+
+They would know how close Scotland is to a 300-mile diet for
+different food-groups and seasons.
+Based on data from consumption and production, and the ratio
+between them, the clients would be able to adapt their
+policies, goals and research questions.
+
+3) What data are you going to use for this? How will you
+acquire this data?
+
+http://britains-diet.labs.theodi.org/ has open data about
+consumption at the UK level, with yearly subsamples for
+Scotland. The data is 7k households per year, for each a
+shopping-cart with a week's worth of food, and the 47
+nutrients of the 315 different foods (which are in 18
+food-groups).
+Data is open 1974-2000, and only summaries are provided
+from 2001 onwards.
+
+Production data seems to be scarce and scattered, probably
+reflecting a narrower variety in production, relative to a
+wider variety in consumption.
+
+4) In brief, outline your approach to solving this problem
+(knowing that this might change later).
+
+- Focus on consumption only, and on the UK as a whole, thus
+answering just part of the broad question.
+- For each household, calculate the nutrients from each
+food-group. It would have to be "per person and per day",
+ignoring the fact that different ages and life-styles
+have different requirements.
+- At a later stage, look at whatever data there is on
+production, and see how much of what's needed can be
+sourced locally in different seasons.
+
+5) What are your deliverables? Typically, this would include
+code, along with a paper and/or a slide deck.
+
+- ipython/jupyter notebook with all the above.

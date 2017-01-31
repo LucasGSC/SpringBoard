@@ -1,0 +1,23 @@
+I only have very vague ideas at the moment. This will take much more than one hour!
+
+Local repositories don't seem to have much, or I fail to see their value.
+I mean things like http://opendatacanarias.es/datos/dataset?tags=sanitaria
+
+I will look at the suggested sites...
+
+I will write my own ideas ...
+
+1) Maybe look at tripadvisor and comments on infections so we can detect outbreaks?
+http://times.cs.uiuc.edu/~wang296/Data/ 435MB - does that look like useful data?
+
+In general: http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3614504/
+
+2) https://www.kaggle.com/openfoodfacts/world-food-facts
+I'd like to link that with data from local production, to see if say vegetarianism could be locally sustainable?
+http://imagina-canarias.blogspot.com.es/2009/04/como-comemos-en-canarias-20090407.html
+
+3) solar prospections: data from sun on territory, plus people and energy use, so as to see the size of the market
+
+4) gun ownership vs. gun murders (not suicides), country by country: is US an outlier?
+http://www.vox.com/2015/8/24/9183525/gun-violence-statistics has some info chart 6
+https://en.wikipedia.org/wiki/Number_of_guns_per_capita_by_country
